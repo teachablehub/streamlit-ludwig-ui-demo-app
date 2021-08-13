@@ -2,7 +2,9 @@
 
 <h1>
   <p align="center">
-    <a href="https://th-ludwig-demo.herokuapp.com/" target="_blank">DEMO</a>
+    <a href="https://th-ludwig-demo.herokuapp.com/" target="_blank">Live DEMO</a>
+    <br/>
+    <a href="https://deepnote.com/project/TeachableHub-eXmrWiQKTm6fXJFLzxxCpA/%2F1_getting-started-ludwig.ipynb" target="_blank">Training Environment</a>
   </p>
 </h1>
 <br /><br />
